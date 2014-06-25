@@ -32,10 +32,10 @@ activate :blog do |blog|
 end
 
 # Required
-set :blog_url, 'http://www.example.com'
-set :blog_name, 'Middleman'
-set :blog_description, 'Makes developing websites simple.'
-set :author_name, 'Middleman'
+set :blog_url, 'http://pancakes.io'
+set :blog_name, 'Pancakes'
+set :blog_description, 'Pancakes. For Humans.'
+set :author_name, 'JWo'
 set :author_bio, 'Middleman is a static site generator using all the ' \
                  'shortcuts and tools in modern web development.'
 # Optional
@@ -154,7 +154,7 @@ helpers do
   end
 
   def twitter_url
-    "https://twitter.com/share?text=#{current_article.title}" \
+    "https://twitter.com/share?text=#{current_article.title}%20From the Awesome Pancake.io site" \
       "&amp;url=#{current_article_url}"
   end
   def facebook_url

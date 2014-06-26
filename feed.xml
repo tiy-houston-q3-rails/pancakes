@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Pancakes</title>
+  <subtitle>Pancakes. For Humans.</subtitle>
+  <id>http://pancakes.io</id>
+  <link href="http://pancakes.io"/>
+  <link href="http://pancakes.io/feed.xml" rel="self"/>
+  <updated>2014-06-25T12:30:00-05:00</updated>
+  <author>
+    <name>JWo</name>
+  </author>
+  <entry>
+    <title>Middleman is too complex for easy use</title>
+    <link rel="alternate" href="http://pancakes.io/2014/06/25/middleman-is-too-complex-for-easy-use/"/>
+    <id>http://pancakes.io/2014/06/25/middleman-is-too-complex-for-easy-use/</id>
+    <published>2014-06-25T12:30:00-05:00</published>
+    <updated>2014-06-25T12:31:10-05:00</updated>
+    <author>
+      <name>JWo</name>
+    </author>
+    <summary type="html">Oh Hi there!
+
+
+</summary>
+  </entry>
+</feed>

@@ -5,7 +5,7 @@ source 'http://rubygems.org'
 gem 'middleman', '~> 3.3.3'
 gem 'middleman-blog', '~> 3.5.3'
 gem 'middleman-livereload', '~> 3.3.4'
-gem 'middleman-gh-pages'
+gem 'middleman-deploy'
 
 # For feed.xml.builder
 gem 'builder', '~> 3.2.2'
